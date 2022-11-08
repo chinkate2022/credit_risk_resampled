@@ -1,6 +1,6 @@
 # credit_risk_resampled
 
-![An image credit risk resampled]()
+![An image credit risk resampled](https://github.com/chinkate2022/credit_risk_resampled/blob/main/12-5-challenge-image.png)
 
 
 ## Overview of the Analysis
